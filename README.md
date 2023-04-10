@@ -1,1 +1,1 @@
-# Word-Sue-using-react
+# Word-Sue-Vanilla(html,css,js)
